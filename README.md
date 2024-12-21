@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddudde&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Ddudde)]
+![](https://komarev.com/ghpvc/?username=Ddudde)
 
 <!--
 **Ddudde/Ddudde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
