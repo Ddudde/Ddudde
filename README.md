@@ -1,7 +1,9 @@
 # Hi there 👋
-# Info
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ddudde)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddudde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Info
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ddudde&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddudde&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=Ddudde)]
 
 <!--
